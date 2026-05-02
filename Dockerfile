@@ -1,4 +1,4 @@
-FROM xhofe/alist:latest
+FROM openlistteam/openlist:latest-lite-aio
 LABEL MAINTAINER="i@nn.ci"
 WORKDIR /opt/alist/
 
